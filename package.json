@@ -35,7 +35,7 @@
   "homepage": "http://eslint.org",
   "bugs": "https://github.com/eslint/eslint/issues/",
   "dependencies": {
-    "chalk": "^1.0.0",
+    "chalk": "^2.0.0",
     "concat-stream": "^1.4.6",
     "debug": "^2.1.1",
     "doctrine": "^0.7.1",
@@ -49,7 +49,7 @@
     "glob": "^5.0.14",
     "globals": "^8.11.0",
     "handlebars": "^4.0.0",
-    "inquirer": "^0.11.0",
+    "inquirer": "^6.5.1",
     "is-my-json-valid": "^2.10.0",
     "is-resolvable": "^1.0.0",
     "js-yaml": "3.4.5",
